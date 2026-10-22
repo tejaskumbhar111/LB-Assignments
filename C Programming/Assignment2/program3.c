@@ -9,7 +9,7 @@ void Display(int iNo)
     }
     else
     {
-        printf("Demo");
+        printf("Tejas");
     }
 }
 
